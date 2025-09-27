@@ -9,7 +9,7 @@
     {
       "name": "Instructions.json",
       "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/Instructions.json",
-      "sha256": "8b0b5476a08cf90fe61d8be72bf4997b34ab43431f1773e67f63f0a834c4a5c5"
+      "sha256": "22c3088ec06d2bb034f1df4b85937affb3c26216242e067aaa8def0274ccbb2a"
     }
   ], 
   "changelog": "Added Automatic Update System." 
