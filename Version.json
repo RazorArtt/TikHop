@@ -1,0 +1,12 @@
+Releases/Version.json
+{
+  "latest": "0.3.0",
+  "files": [
+    {
+      "name": "TikHop(0.3.0).zip",
+      "url": "None",
+      "sha256": "None"
+    }
+  ],
+  "changelog": "Work in progress, just for release."
+}
