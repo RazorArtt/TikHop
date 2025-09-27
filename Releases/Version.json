@@ -1,11 +1,31 @@
-{
-  "latest": "0.3.0",
-  "files": [
-    {
-      "name": "TikHop(0.3.0).zip",
-      "url": "None",
-      "sha256": "None"
-    }
-  ],
-  "changelog": "Work in progress, just for release on GitHub."
-}
+{ 
+  "latest": "0.3.0", 
+  "files": [ 
+    { 
+        "name": "TikHop(0.3.0).z01", 
+        "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/Versions/0.3.0/TikHop(0.3.0).z01", 
+        "sha256": "91d79b5e0a8fa97928eb704181af4c881b2b04c1f718e2d034e271b8888ec036" 
+    }, 
+    { 
+        "name": "TikHop(0.3.0).z02", 
+        "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/Versions/0.3.0/TikHop(0.3.0).z02", 
+        "sha256": "08e153999bd35a3e8c287ffd4a0673a829d7c1b8bba0e7a5f21cf23437a1be42" 
+    }, 
+    { 
+        "name": "TikHop(0.3.0).z03", 
+        "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/Versions/0.3.0/TikHop(0.3.0).z03", 
+        "sha256": "08a57fbda32908bef089d4b2833cae2e78e11f41ac05b7a74323804396d94f15" 
+    }, 
+    { 
+        "name": "TikHop(0.3.0).z04", 
+        "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/Versions/0.3.0/TikHop(0.3.0).z04", 
+        "sha256": "4307df1d592a084b13314957235969eea9a6dfda6ac79716ea06dde14b8b94bb" 
+    }, 
+    { 
+        "name": "TikHop(0.3.0).zip", 
+        "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/Versions/0.3.0/TikHop(0.3.0).zip", 
+        "sha256": "d8c7a981ee5bf86f19800eeb5958a02e2937d99d8f66ec4474895d08422d501f" 
+    } 
+  ], 
+  "changelog": "Work in progress, just for release on GitHub." 
+} 
