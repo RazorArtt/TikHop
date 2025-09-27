@@ -1,6 +1,6 @@
 # 🎤 TikHop
 
-**TikHop** es un complemento experimental para **TikTok Live**, diseñado especialmente para artistas de freestyle que rapean con los comentarios de su público en tiempo real.
+**TikHop** es un complemento experimental para **TikTok Live Streaming**, diseñado especialmente para artistas de freestyle que rapean con los comentarios de su público en tiempo real.
 
 Actualmente se encuentra en fase **Alpha cerrada**.
 
@@ -9,9 +9,9 @@ Actualmente se encuentra en fase **Alpha cerrada**.
 ## Características principales
 
 * Integración con **TikTok Live** para leer comentarios en tiempo real.
+   * Verificar última versión para más funciones e información.
 * Interfaz ligera y minimalista para uso en vivo.
-* Compatibilidad con **TikHopUpdater.exe** para mantener el programa siempre actualizado.
-* Sistema de versiones bajo **Semantic Versioning** (`MAJOR.MINOR.PATCH`).
+* **TikHopUpdater.exe** para mantener el programa siempre actualizado.
 
 ---
 
@@ -25,23 +25,25 @@ TikHop utiliza un programa complementario llamado **TikHopUpdater.exe**.
 
 Cada actualización incluye:
 
-* Un archivo de versión (`version.json`). (En proceso de implementación)
+* Un archivo de versión (`Instructions.json`).
 * Un changelog con las novedades.
 * Los binarios correspondientes.
+* Se prioriza la compatibilidad con versiones antiguas.
+* Se prioriza mantener la configuración y modificar sin perder los valores.
 
 ---
 
 ## Estado del proyecto
 
-* Versión actual: **0.3.0 (Alpha)**
+* Versión actual: **0.3.1 (Alpha)**
 * Estado: **Prueba interna / Alpha cerrada**
-* Futuro: integración de sistema de licencias y métodos de pago (**MercadoPago** y **PayPal**).
+* Futuro: integración de sistema de licencias, métodos de pago (**MercadoPago** y **PayPal**) y versión gratuita integrada.
 
 ---
 
 ## 🛠️ Instalación
 
-1. Descarga el instalador o binario desde la sección **Releases**.
+1. Descarga el instalador (working on it...) o binario desde la sección **Releases**.
 2. Ejecuta `TikHop.exe` para iniciar la aplicación.
 3. Asegúrate de tener `TikHopUpdater.exe` en la misma carpeta para mantener el software actualizado.
 
