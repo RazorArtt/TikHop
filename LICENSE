@@ -5,40 +5,41 @@ Todos los derechos reservados.
 
 Este software y sus componentes (incluyendo código fuente, binarios, documentación y materiales relacionados) son propiedad exclusiva de su autor.
 
----
+Licencia
 
-Derechos otorgados
+Se otorga al usuario una licencia limitada, idéntica para todos los usuarios, exclusiva solo para las personas autorizadas dentro del binario del programa e intransferible. Esta licencia permite:
 
-El usuario obtiene una licencia limitada, no exclusiva e intransferible para:
+- Instalar y utilizar el software únicamente para fines personales o profesionales internos.
+- Recibir actualizaciones y parches provistos automáticamente y administrados únicamente por el sistema oficial del software (TikHopUpdater).
 
-* Instalar y utilizar este software únicamente para fines personales o profesionales internos.
-* Recibir actualizaciones y parches provistos oficialmente.
+Descarga y uso
 
----
+El software puede descargarse libremente, pero solo los usuarios ya especificados en el binario están autorizados a ejecutarlo. Cualquier intento de uso por personas no autorizadas está prohibido.
 
 Restricciones
 
-Queda expresamente prohibido:
+Queda prohibido:
 
-* Copiar, distribuir o revender el software sin autorización previa por escrito.
-* Modificar, descompilar, realizar ingeniería inversa o crear trabajos derivados del software.
-* Compartir claves de licencia, credenciales o métodos de activación.
+- Copiar, distribuir o revender el software sin autorización previa por escrito.
+- Modificar, descompilar, realizar ingeniería inversa o crear trabajos derivados del software.
+- Compartir claves de licencia, credenciales o métodos de activación.
 
----
+Prohibiciones adicionales
+
+- No se permite ingeniería inversa ni cracks para eludir la licencia.
+- No se permite modificar binarios ni archivos de configuración para forzar la ejecución.
+- El software cuenta con protección interna contra modificaciones externas que eviten la verificación de usuario.
 
 Actualizaciones
 
-Las actualizaciones podrán ser distribuidas de manera automática mediante el sistema oficial de actualización (TikHopUpdater).
-El acceso a nuevas versiones puede requerir una licencia válida o un pago adicional.
-
----
+- Todas las actualizaciones se distribuyen de manera automática y solo por el sistema oficial (TikHopUpdater).
+- El acceso a nuevas versiones puede requerir licencia válida o pago adicional.
 
 Garantía
 
-Este software se distribuye "TAL CUAL", sin garantías de ningún tipo, expresas o implícitas, incluyendo pero no limitadas a la comerciabilidad o idoneidad para un propósito en particular.
-El autor no será responsable por daños directos, indirectos o incidentales derivados del uso del software.
+El software se distribuye "TAL CUAL", sin garantías de ningún tipo, expresas o implícitas, incluyendo comerciabilidad o idoneidad para un propósito particular. El autor no será responsable por daños directos, indirectos o incidentales derivados del uso del software o intentos de uso no autorizado.
 
----
+Aceptación
 
-Al instalar o usar este software, usted acepta los términos de esta licencia.
-Para consultas de uso comercial o distribución, contacte a: [Razor.Art@outlook.com](mailto:Razor.Art@outlook.com)
+Al instalar o usar el software, el usuario acepta los términos de esta licencia.  
+Para consultas de uso comercial o distribución, contacte a: Razor.Art@outlook.com
