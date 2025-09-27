@@ -1,5 +1,5 @@
 {
-  "0.3.1": [
+  "0.3.0": [
     {
       "action": "extract",
       "source": "tmp/TikHop(0.3.1).zip",
@@ -70,4 +70,5 @@
       "action": "self_update"
     }
   ]
+
 }
