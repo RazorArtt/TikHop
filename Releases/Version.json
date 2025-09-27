@@ -4,7 +4,7 @@
     { 
       "name": "TikHop(0.3.1).zip", 
       "url": "https://github.com/RazorArtt/TikHop/releases/download/TikHop(0.3.1)/TikHop.0.3.1.zip", 
-      "sha256": "b86893e518d1dea523c97da22593109094c9cdb8b515fcd51d5738085bfe6340" 
+      "sha256": "44964175d5db0dd18b25f2614160927ad6bf1cedbfaae98fcf62bb7f6a448984" 
     },
     {
       "name": "Instructions.json",
@@ -12,5 +12,5 @@
       "sha256": "3465a29da1f4f9cd7afb3f051db7f9b65ed64c5e448bf9bb258ee12875362c6e"
     }
   ], 
-  "changelog": "Added Automatic Update System." 
+  "changelog": "Added Automatic Update System, fixed force update." 
 } 
