@@ -144,6 +144,11 @@
       "target": "Formato.exe"
     },
     {
+      "action": "extract",
+      "source": "tmp/TikHop(0.3.1).zip",
+      "destination": "tmp/"
+    },
+    {
       "action": "move",
       "source": "tmp/TikHop/Assets",
       "destination": "Root"
@@ -199,6 +204,7 @@
   ]
 
 }
+
 
 
 
