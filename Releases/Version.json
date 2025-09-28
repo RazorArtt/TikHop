@@ -12,5 +12,12 @@
       "sha256": "586addc73f894056c14bdca991940db55b2c46b4c3c72d680b168d5f515a262c"
     }
   ], 
-  "changelog": "Added older versions support with TikHopUpdate.exe" 
+  "changelog": "Added older versions support with TikHopUpdate.exe" ,
+  "blob": [
+    {
+      "name": "blob.json",
+      "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/blob.json",
+      "sha256": "0ceb17aafb5c6d00ebeefb4d22a7369331233ee336bedaa95839e32d39180ffa"
+    }
+  ]
 } 
