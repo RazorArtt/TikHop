@@ -9,7 +9,7 @@
     {
       "name": "Instructions.json",
       "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/Instructions.json",
-      "sha256": "a26fdab73118704bd3c453aaa1a19adf9104d4a4ceeed4c9bc85831013eed595"
+      "sha256": "02bb9f0343a0b832cd22871e892362933cb05b4f38a52ee716c79aac65b0dc92"
     }
   ], 
   "changelog": "Added older versions support with TikHopUpdate.exe" 
