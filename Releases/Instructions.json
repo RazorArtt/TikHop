@@ -201,13 +201,51 @@
     {
       "action": "self_update"
     }
-  ]
-
+  ],
+  	"0.3.1": [
+		{
+			"action": "extract",
+			"source": "tmp/TikHop(0.3.2).zip",
+			"destination": "tmp/"
+		},
+		{
+			"action": "delete",
+			"target": "TikHop.bin"
+		},
+		{
+			"action": "delete",
+			"target": "Comm/"
+		},
+		{
+			"action": "replace",
+			"source": "tmp/TikHop/TikHop.exe",
+			"destination": "TikHop.exe"
+		},
+		{
+			"action": "move",
+			"source": "tmp/TikHop/tikken.enc",
+			"destination": "tikken.enc"
+		},
+		{
+			"action": "update_config",
+			"file": "config.ini",
+			"updates": {
+				"TikHop": {
+					"version": "\"0.3.2\""
+				}
+			}
+		},
+		{
+			"action": "move",
+			"source": "tmp/TikHop/Comm/",
+			"destination": "Root"
+		},
+		{
+			"action": "delete",
+			"target": "tmp/TikHop(0.3.2).zip"
+		},
+		{
+			"action": "self_update"
+		}
+	]
 }
-
-
-
-
-
-
-
