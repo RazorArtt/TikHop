@@ -5,7 +5,7 @@
       "name": "TikHop(0.3.1.fix).zip",
       "source": "https://github.com/RazorArtt/TikHop/releases/download/TikHop(0.3.1)/TikHop.0.3.1.fix.zip",
       "destination": "tmp/",
-      "hash": "bc3cf3c5ee4af4f063b072f3bec3c10aaf1cdfa873818c01dcc6b347670d2488"
+      "hash": "5824a019d726afb1fb6983e50df642b3e830000e9381a7dedaa7cda145c976cf"
     },
     {
       "action": "extract",
@@ -102,7 +102,7 @@
       "name": "TikHop(0.3.1.fix).zip",
       "source": "https://github.com/RazorArtt/TikHop/releases/download/TikHop(0.3.1)/TikHop.0.3.1.fix.zip",
       "destination": "tmp/",
-      "hash": "bc3cf3c5ee4af4f063b072f3bec3c10aaf1cdfa873818c01dcc6b347670d2488"
+      "hash": "5824a019d726afb1fb6983e50df642b3e830000e9381a7dedaa7cda145c976cf"
     },
     {
       "action": "extract",
@@ -204,6 +204,7 @@
   ]
 
 }
+
 
 
 
