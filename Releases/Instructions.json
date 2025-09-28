@@ -106,12 +106,12 @@
     },
     {
       "action": "extract",
-      "source": "TikHop(0.3.1.fix).zip",
+      "source": "tmp/TikHop(0.3.1.fix).zip",
       "destination": "tmp/"
     },
     {
       "action": "delete",
-      "target": "TikHop(0.3.1.fix).zip"
+      "target": "tmp/TikHop(0.3.1.fix).zip"
     },
     {
       "action": "move",
@@ -211,5 +211,6 @@
   ]
 
 }
+
 
 
