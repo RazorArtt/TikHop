@@ -144,18 +144,6 @@
       "target": "Formato.exe"
     },
     {
-      "action": "get",
-      "name": "TikHop(0.3.1).zip",
-      "source": "https://github.com/RazorArtt/TikHop/releases/download/TikHop(0.3.1)/TikHop.0.3.1.zip",
-      "destination": "tmp/",
-      "hash": "44964175d5db0dd18b25f2614160927ad6bf1cedbfaae98fcf62bb7f6a448984"
-    },
-    {
-      "action": "extract",
-      "source": "TikHop(0.3.1).zip",
-      "destination": "tmp/"
-    },
-    {
       "action": "move",
       "source": "tmp/TikHop/Assets",
       "destination": "Root"
@@ -211,6 +199,7 @@
   ]
 
 }
+
 
 
 
