@@ -141,11 +141,7 @@
     },
     {
       "action": "delete",
-      "target": "Formato - copia.pyw"
-    },
-    {
-      "action": "delete",
-      "target": "Formato.pyw"
+      "target": "Formato.exe"
     },
     {
       "action": "get",
@@ -215,4 +211,5 @@
   ]
 
 }
+
 
