@@ -11,7 +11,7 @@
     },
     {
       "action": "copy",
-      "source": "tmp/TikHop/IgnoreWords.txt",
+      "source": "tmp/TikHop/IgnoredWords.txt",
       "destination": "Comm/IgnoreWords.txt"
     },
     {
@@ -57,3 +57,4 @@
     }
   ]
 }
+
