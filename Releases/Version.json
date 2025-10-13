@@ -2,14 +2,14 @@
   "latest": "0.3.2", 
   "files": [ 
     { 
-      "name": "TikHop(0.3.2).zip", 
-      "url": "https://github.com/RazorArtt/TikHop/releases/download/TikHop(0.3.2)/TikHop.0.3.2.zip", 
-      "sha256": "71b1ef7878375a54f9920ed1002201bc542c54010b3919c44d65700ff578e5a4" 
+      "name": "TikHop(0.3.3).zip", 
+      "url": "https://github.com/RazorArtt/TikHop/releases/download/TikHop(0.3.x)/TikHop.0.3.3.zip", 
+      "sha256": "24f6e800737824b35202b92505ae2a930ee2a3cdca52be68b0c3b78b4895e087" 
     },
     {
       "name": "Instructions.json",
       "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/Instructions.json",
-      "sha256": "e2cdb77d7f0b144916bb456f8dfaf9c53acf1e88277f2f52f2c0ca0432ef83c8"
+      "sha256": "dd190fa237d2ed0be3ffe844d298337c04aefbd5e7705c94f7a5cd4746b0ea5f"
     }
   ], 
   "changelog": "Security update." ,
@@ -17,7 +17,7 @@
     {
       "name": "blob.json",
       "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/blob.json",
-      "sha256": "b763c794d61f3ac648b5ba9c68c57ee66fc1ad8901100aff90b3c03b6916bcdd"
+      "sha256": "6ee4a69f3c147ffe81bc7e9950db70f615f1bbc925db7831128bff405865e94c"
     }
   ]
 } 
