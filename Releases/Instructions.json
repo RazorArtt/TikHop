@@ -1,251 +1,59 @@
 {
-  "0.3.1.fix": [
-    {
-      "action": "get",
-      "name": "TikHop(0.3.1.fix).zip",
-      "source": "https://github.com/RazorArtt/TikHop/releases/download/TikHop(0.3.1)/TikHop.0.3.1.fix.zip",
-      "destination": "tmp/",
-      "hash": "5824a019d726afb1fb6983e50df642b3e830000e9381a7dedaa7cda145c976cf"
-    },
+  "0.3.2": [
     {
       "action": "extract",
-      "source": "tmp/TikHop(0.3.1.fix).zip",
+      "source": "tmp/TikHop(0.3.3).zip",
       "destination": "tmp/"
+    },
+    {
+      "action": "delete",
+      "target": "tmp/TikHop(0.3.3).zip"
+    },
+    {
+      "action": "copy",
+      "source": "tmp/TikHop/IgnoreWords.txt",
+      "destination": "Comm/IgnoreWords.txt"
+    },
+    {
+      "action": "replace",
+      "source": "tmp/TikHop/BannedWords.txt",
+      "destination": "Comm/BannedWords.txt"
+    },
+    {
+      "action": "replace",
+      "source": "tmp/TikHop/tikken.enc",
+      "destination": "tikken.enc"
     },
     {
       "action": "replace",
       "source": "tmp/TikHop/TikHop.exe",
       "destination": "TikHop.exe"
-    },
-    {
-      "action": "delete",
-      "target": "tmp/TikHop(0.3.1.fix).zip"
-    },
-    {
-      "action": "self_update"
-    }
-  ],
-  "0.3.0": [
-    {
-      "action": "extract",
-      "source": "tmp/TikHop(0.3.1).zip",
-      "destination": "tmp/"
-    },
-    {
-      "action": "replace",
-      "source": "tmp/TikHop/TikHop.exe",
-      "destination": "TikHop.exe"
-    },
-    {
-      "action": "replace",
-      "source": "tmp/TikHop/config.ini",
-      "destination": "config.ini"
-    },
-    {
-      "action": "delete",
-      "target": "Themes/"
-    },
-    {
-      "action": "delete",
-      "target": "Comm/"
-    },
-    {
-      "action": "delete",
-      "target": "Assets/"
-    },
-    {
-      "action": "move",
-      "source": "tmp/TikHop/Assets/",
-      "destination": "Root"
-    },
-    {
-      "action": "move",
-      "source": "tmp/TikHop/Comm/",
-      "destination": "Root"
-    },
-    {
-      "action": "move",
-      "source": "tmp/TikHop/Themes/",
-      "destination": "Root"
-    },
-    {
-      "action": "move",
-      "source": "tmp/TikHop/TikHop.bin",
-      "destination": "TikHop.bin"
-    },
-    {
-      "action": "delete",
-      "target": "tmp/TikHop(0.3.1).zip"
     },
     {
       "action": "update_config",
       "file": "config.ini",
       "updates": {
         "TikHop": {
-          "version": "\"0.3.1\"",
-          "updatemessage": "\"Hello From Update - This is a test.\""
+          "version": "\"0.3.3\""
+        },
+        "TikHop_UserPreferences": {
+          "immersivecontour_width": "2",
+          "immersivecontour_color": "#ff5e61",
+          "immersivecontour_enable": "1",
+          "spamtime": "300"
+        },
+        "TikHop_Moderation": {
+          "ignoreignoredwordks": "True"
         }
       },
       "rename_keys": {},
-      "delete_keys": [
-        "TikHop.api",
-        "TikHop_UserPreferences.hostname"
-      ]
+      "delete_keys": [],
+      "rename_sections": {},
+      "delete_sections": [],
+      "create_sections": []
     },
     {
       "action": "self_update"
     }
-  ],
-  "0.6.fix": [
-    {
-      "action": "get",
-      "name": "TikHop(0.3.1.fix).zip",
-      "source": "https://github.com/RazorArtt/TikHop/releases/download/TikHop(0.3.1)/TikHop.0.3.1.fix.zip",
-      "destination": "tmp/",
-      "hash": "5824a019d726afb1fb6983e50df642b3e830000e9381a7dedaa7cda145c976cf"
-    },
-    {
-      "action": "extract",
-      "source": "tmp/TikHop(0.3.1.fix).zip",
-      "destination": "tmp/"
-    },
-    {
-      "action": "delete",
-      "target": "tmp/TikHop(0.3.1.fix).zip"
-    },
-    {
-      "action": "move",
-      "source": "tmp/TikHop/TikHop.exe",
-      "destination": "TikHop.exe"
-    },
-    {
-      "action": "self_update"
-    }
-  ],
-  "0.6": [
-    {
-      "action": "delete",
-      "target": "Assets/"
-    },
-    {
-      "action": "delete",
-      "target": "Backgrounds/"
-    },
-    {
-      "action": "delete",
-      "target": "Themes/"
-    },
-    {
-      "action": "delete",
-      "target": "BannedWords.txt"
-    },
-    {
-      "action": "delete",
-      "target": "Formato.exe"
-    },
-    {
-      "action": "extract",
-      "source": "tmp/TikHop(0.3.1).zip",
-      "destination": "tmp/"
-    },
-    {
-      "action": "move",
-      "source": "tmp/TikHop/Assets",
-      "destination": "Root"
-    },
-    {
-      "action": "move",
-      "source": "tmp/TikHop/Comm",
-      "destination": "Root"
-    },
-    {
-      "action": "move",
-      "source": "tmp/TikHop/Themes",
-      "destination": "Root"
-    },
-    {
-      "action": "move",
-      "source": "tmp/TikHop/TikHop.bin",
-      "destination": "TikHop.bin"
-    },
-    {
-      "action": "replace",
-      "source": "tmp/TikHop/config.ini",
-      "destination": "config.ini"
-    },
-    {
-      "action": "delete",
-      "target": "tmp/TikHop(0.3.1).zip"
-    },
-    {
-      "action": "get",
-      "name": "Optional.Backgrounds.zip",
-      "source": "https://github.com/RazorArtt/TikHop/releases/download/TikHop(0.3.1)/Optional.Backgrounds.zip",
-      "destination": "tmp/",
-      "hash": "baac131318bd543a0426b82f1b48aa7617c459843824bfee39d0b042ac162181"
-    },
-    {
-      "action": "extract",
-      "source": "tmp/Optional.Backgrounds.zip",
-      "destination": "tmp/"
-    },
-    {
-      "action": "delete",
-      "target": "tmp/Optional.Backgrounds.zip"
-    },
-    {
-      "action": "move",
-      "source": "tmp/Backgrounds",
-      "destination": "Root"
-    },
-    {
-      "action": "self_update"
-    }
-  ],
-  	"0.3.1": [
-		{
-			"action": "extract",
-			"source": "tmp/TikHop(0.3.2).zip",
-			"destination": "tmp/"
-		},
-		{
-			"action": "delete",
-			"target": "TikHop.bin"
-		},
-		{
-			"action": "delete",
-			"target": "Comm/"
-		},
-		{
-			"action": "replace",
-			"source": "tmp/TikHop/TikHop.exe",
-			"destination": "TikHop.exe"
-		},
-		{
-			"action": "move",
-			"source": "tmp/TikHop/tikken.enc",
-			"destination": "tikken.enc"
-		},
-		{
-			"action": "update_config",
-			"file": "config.ini",
-			"updates": {
-				"TikHop": {
-					"version": "\"0.3.2\""
-				}
-			}
-		},
-		{
-			"action": "move",
-			"source": "tmp/TikHop/Comm/",
-			"destination": "Root"
-		},
-		{
-			"action": "delete",
-			"target": "tmp/TikHop(0.3.2).zip"
-		},
-		{
-			"action": "self_update"
-		}
-	]
+  ]
 }
