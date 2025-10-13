@@ -6,17 +6,13 @@
       "destination": "tmp/"
     },
     {
-      "action": "delete",
-      "target": "tmp/TikHop(0.3.3).zip"
-    },
-    {
       "action": "copy",
-      "source": "tmp/TikHop/IgnoredWords.txt",
+      "source": "tmp/TikHop/Comm/IgnoredWords.txt",
       "destination": "Comm/IgnoreWords.txt"
     },
     {
       "action": "replace",
-      "source": "tmp/TikHop/BannedWords.txt",
+      "source": "tmp/TikHop/Comm/BannedWords.txt",
       "destination": "Comm/BannedWords.txt"
     },
     {
@@ -53,8 +49,13 @@
       "create_sections": []
     },
     {
+      "action": "delete",
+      "target": "tmp/TikHop(0.3.3).zip"
+    },
+    {
       "action": "self_update"
     }
   ]
 }
+
 
