@@ -9,7 +9,7 @@
     {
       "name": "Instructions.json",
       "url": "https://raw.githubusercontent.com/RazorArtt/TikHop/main/Releases/Instructions.json",
-      "sha256": "dd190fa237d2ed0be3ffe844d298337c04aefbd5e7705c94f7a5cd4746b0ea5f"
+      "sha256": "2299f263cfb80abb53bdb5aa7e6c89830abbb5c0f0b5bc4329f9f431d5265459"
     }
   ], 
   "changelog": "Security update." ,
