@@ -39,7 +39,7 @@
           "spamtime": "300"
         },
         "TikHop_Moderation": {
-          "ignoreignoredwordks": "True"
+          "ignoreignoredwords": "True"
         }
       },
       "rename_keys": {},
@@ -57,5 +57,6 @@
     }
   ]
 }
+
 
 
